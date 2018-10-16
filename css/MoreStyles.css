@@ -1,0 +1,65 @@
+.MyStyle{
+	border: 1px solid #FF0000;
+	font-size: 25px;
+}
+.IntroTitle{
+	margin-bottom: 10px;
+	font-size: 25px;
+	color: white;
+	//font: bold;
+	//font-weight: bold;
+	//font-weight: normal;
+	font-family: "Courier New", Courier, monospace;
+	//text-align:center;
+}
+.SubTitle{
+	margin-bottom: 10px;
+	font-size: 15px;
+	color: white;
+	font-family: "Courier New", Courier, monospace;
+}
+.MainDivs{
+	//border: 5px solid #FF0000;
+	margin-left: center;
+	margin-right: center;
+	//margin-bottom: 25px;
+	//width: 50%;
+}
+.MiddlePos{
+	display: block;
+	margin-bottom: auto;
+	text-align:center;
+}
+div.container3 {
+   height: 10em;
+   position: relative }              /* 1 */
+div.container3 p {
+   margin: 0;
+   position: absolute;               /* 2 */
+   top: 50%;                         /* 3 */
+   transform: translate(0, -50%) }
+.MainDivsRow{
+	//margin-left: auto;
+	//margin-right: auto;
+	margin-bottom: 132px;
+	//top: 50%;
+}
+.MainRow{
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 50px;
+}
+
+.row{
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 5px;
+}
+
+.ChangeImg {
+    width: 75%;
+    //height: auto;
+	display: block;
+    margin-left: auto;
+    margin-right: auto
+}
